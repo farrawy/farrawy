@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farrawy 
 - 👀 I’m interested in EATING FOOD
-- 🌱 I’m currently learning Frontend Web development
-- 💞️ I’m looking to collaborate on frontend
+- 🌱 I’m currently learning Frontend Web development and Android Applications Development
+- 💞️ I’m looking to collaborate on Android Application Development 
 - 📫 How to reach me ahmed.e.alfarra@gmail.com or instagram: istashajr
 
 <!---
